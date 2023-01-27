@@ -1,21 +1,7 @@
-Moderator GUI
-
-
-Current Capability:
-
-Script asks user for folder to provide
-
+Moderator GUI for AI generated Images for designs
 
 Things to work on:
 
-- make accept / deny button move image to appropriate 'accepted'/'denied' folder
+- generate options for saving descriptions, title, potential top text, potential bottom text, etc.
 
-- make window full screen'able
-
-- make image resize to window size
-
-- make a json out of 'accepted' and 'denied' folder to save
-
-- make it look nice with settings menu
-
-- make a web app out of it
+- make it a web applicaiton
